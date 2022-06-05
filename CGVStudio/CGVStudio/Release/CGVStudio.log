@@ -1,0 +1,39 @@
+﻿  Aabb.cpp
+  Application.cpp
+  BaseModel.cpp
+  BaseShader.cpp
+  Camera.cpp
+  color.cpp
+  ConstantShader.cpp
+  IndexBuffer.cpp
+  LineBoxModel.cpp
+  LinePlaneModel.cpp
+  main.cpp
+  Matrix.cpp
+  Model.cpp
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\Model.cpp(211,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\Model.cpp(212,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\Model.cpp(260,96): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\Model.cpp(260,135): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+  PhongShader.cpp
+  rgbimage.cpp
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\rgbimage.cpp(56,11): warning C4244: 'return': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\rgbimage.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\rgbimage.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\rgbimage.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+  Terrain.cpp
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\Terrain.cpp(46,73): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\src\Terrain.cpp(46,36): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  TerrainShader.cpp
+  Texture.cpp
+  TriangleBoxModel.cpp
+  TrianglePlaneModel.cpp
+  Compiling...
+  TriangleSphereModel.cpp
+  vector.cpp
+  VertexBuffer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 725 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CGVStudio.vcxproj -> C:\Users\maxim\Documents\Hs_zeug\sem4\computergrafik\praktikum\cgprak5\cgprakt5\CGVStudio\Release\CGVStudio.exe
